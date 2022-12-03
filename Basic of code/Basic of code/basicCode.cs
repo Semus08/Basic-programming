@@ -30,6 +30,16 @@ namespace Basic_of_code
         }
         public void Bools()
         {
+            bool Jiri = true;
+            if (Jiri)
+            {
+                Console.WriteLine("Roan");
+
+            }else
+            {
+                Console.WriteLine("Sem");
+            }
+                
 
         }
         public void Loops()

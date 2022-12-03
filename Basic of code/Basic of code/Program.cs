@@ -7,7 +7,7 @@ namespace Basic_of_code
         static void Main(string[] args)
         {
             basicCode codingBasics = new basicCode();
-            codingBasics.Intergers();
+            codingBasics.Bools();
 
 
           
