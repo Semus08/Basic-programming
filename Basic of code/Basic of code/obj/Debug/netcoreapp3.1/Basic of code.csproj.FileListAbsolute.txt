@@ -1,0 +1,14 @@
+C:\Users\Sem Maassen\Documents\GitHub\Basic-programming\Basic of code\Basic of code\bin\Debug\netcoreapp3.1\Basic of code.exe
+C:\Users\Sem Maassen\Documents\GitHub\Basic-programming\Basic of code\Basic of code\bin\Debug\netcoreapp3.1\Basic of code.deps.json
+C:\Users\Sem Maassen\Documents\GitHub\Basic-programming\Basic of code\Basic of code\bin\Debug\netcoreapp3.1\Basic of code.runtimeconfig.json
+C:\Users\Sem Maassen\Documents\GitHub\Basic-programming\Basic of code\Basic of code\bin\Debug\netcoreapp3.1\Basic of code.runtimeconfig.dev.json
+C:\Users\Sem Maassen\Documents\GitHub\Basic-programming\Basic of code\Basic of code\bin\Debug\netcoreapp3.1\Basic of code.dll
+C:\Users\Sem Maassen\Documents\GitHub\Basic-programming\Basic of code\Basic of code\bin\Debug\netcoreapp3.1\Basic of code.pdb
+C:\Users\Sem Maassen\Documents\GitHub\Basic-programming\Basic of code\Basic of code\obj\Debug\netcoreapp3.1\Basic of code.csproj.AssemblyReference.cache
+C:\Users\Sem Maassen\Documents\GitHub\Basic-programming\Basic of code\Basic of code\obj\Debug\netcoreapp3.1\Basic of code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sem Maassen\Documents\GitHub\Basic-programming\Basic of code\Basic of code\obj\Debug\netcoreapp3.1\Basic of code.AssemblyInfoInputs.cache
+C:\Users\Sem Maassen\Documents\GitHub\Basic-programming\Basic of code\Basic of code\obj\Debug\netcoreapp3.1\Basic of code.AssemblyInfo.cs
+C:\Users\Sem Maassen\Documents\GitHub\Basic-programming\Basic of code\Basic of code\obj\Debug\netcoreapp3.1\Basic of code.csproj.CoreCompileInputs.cache
+C:\Users\Sem Maassen\Documents\GitHub\Basic-programming\Basic of code\Basic of code\obj\Debug\netcoreapp3.1\Basic of code.dll
+C:\Users\Sem Maassen\Documents\GitHub\Basic-programming\Basic of code\Basic of code\obj\Debug\netcoreapp3.1\Basic of code.pdb
+C:\Users\Sem Maassen\Documents\GitHub\Basic-programming\Basic of code\Basic of code\obj\Debug\netcoreapp3.1\Basic of code.genruntimeconfig.cache
